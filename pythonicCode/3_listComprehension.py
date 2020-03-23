@@ -3,7 +3,7 @@
 * Chapter1. Pythonic Code
 * 1) Pythonic Code
 * 3강. List Comprehension
-* 2020.03.23.Sun
+* 2020.03.23.Mon
 '''
 # List comprehensions
 # 기존 List를 사용하여 간단히 다른 List를 만드는 기법

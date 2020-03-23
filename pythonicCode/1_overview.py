@@ -3,7 +3,7 @@
 * Chapter1. Pythonic Code
 * 1) Pythonic Code
 * 1강. Overview
-* 2020.03.23.Sun
+* 2020.03.23.Mon
 '''
 # Pythonic Code
 # Split & Join, List Comprehension, Enumerate & Zip

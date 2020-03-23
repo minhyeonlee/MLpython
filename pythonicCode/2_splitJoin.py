@@ -3,7 +3,7 @@
 * Chapter1. Pythonic Code
 * 1) Pythonic Code
 * 2강. Split and Join
-* 2020.03.23.Sun
+* 2020.03.23.Mon
 '''
 # Split 함수 : String Type의 값을 나눠서 List 형태로 변환
 # 뉴스 데이터 등(BoW)에서 어떤 단어가 얼마나 포함되어있는지 확인할 때 사용 많이함.
